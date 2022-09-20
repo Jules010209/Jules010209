@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
 <h3 align="center">Je suis "développeur" français !</h3>
 <br>
-<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=jules010209&show_icons=true alt="jules010209" /> </p>
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=jules010209&show_icons=true&locale=fr alt="jules010209" /> </p>
 
 - ⚡ Je travaille actuellement sur [Oxie](https://www.oxie.fr/)
 
