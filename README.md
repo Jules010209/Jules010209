@@ -7,7 +7,7 @@
 
 - 🌱 J'apprend le **TypeScript**
 
-- 🤝 J'aide un amis sur son bot discord [xyz](https://discord.gg/tQmCtvBgfM)
+- 🤝 J'aide un ami sur son bot discord [xyz](https://discord.gg/tQmCtvBgfM)
 
 - 👨‍💻 Tout mes projet NPM sont disponibles ici [https://www.npmjs.com/~jules010209](https://www.npmjs.com/~jules010209)
 
