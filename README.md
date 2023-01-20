@@ -9,7 +9,7 @@
 
 - 🤝 J'aide un ami sur son bot discord [xyz](https://discord.gg/tQmCtvBgfM)
 
-- 👨‍💻 Tout mes projet NPM sont disponibles [https://www.npmjs.com/~jules010209](ici)
+- 👨‍💻 Tout mes projet NPM sont disponibles [ici](https://www.npmjs.com/~jules010209)
 
 - 📫 Me contacter via l'email du support de mon bot **support@oxie.fr**
 
