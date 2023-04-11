@@ -29,4 +29,3 @@
 
 <h3 align="left">Dons:</h3>
 <p><a href="https://www.buymeacoffee.com/julesc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="julesc" /></a><a href="https://ko-fi.com/jules010209"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jules010209" /></a></p><br><br>
-[![](https://visitcount.itsvg.in/api?id=Jules010209&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
