@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,vscode,visualstudio,unity,unreal,git,kubernetes,docker,ts,nodejs,sequelize,sass,react,nestjs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=blender,vscode,visualstudio,unity,unreal,git,kubernetes,docker,ts,nodejs,sequelize,sass,react,nestjs,discord,electron,github,gitlab&perline=6" />
   </a>
 </p>
 
