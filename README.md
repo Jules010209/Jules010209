@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
-<h3 align="center">Je suis "développeur" français !</h3>
+<h3 align="center">I'm French developer</h3>
 <br>
 
 <p align="center">
