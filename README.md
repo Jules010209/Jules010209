@@ -14,17 +14,17 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jules010209&theme=react&hide_border=true&bg_color=0D1117"></p>
 
 <div align="center">
-  <p>⚡ Je travaille actuellement sur <a href="https://www.oxie.fr/">Oxie</a><p>
+  <p>⚡ I actually work on <a href="https://www.oxie.fr/">Oxie</a><p>
   
-  <p>🌱 J'apprend le <b>TypeScript</b></p>
+  <p>🌱 I learn <b>TypeScript</b></p>
   
-  <p>🤝 J'aide un ami sur son bot discord <a href="https://discord.gg/tQmCtvBgfM">xyz</a></p>
+  <p>🤝 I help my friend on his discord bot <a href="https://discord.gg/tQmCtvBgfM">xyz</a></p>
 
-  <p>👨‍💻 Tout mes projet NPM sont disponibles <a href="https://www.npmjs.com/~jules010209">ici</a></p>
+  <p>👨‍💻 All my NPM projects are available <a href="https://www.npmjs.com/~jules010209">here</a></p>
 
-  <p>📫 Me contacter via l'email du support de mon bot <a href="mailto:support@oxie.fr">support@oxie.fr<a/></p>
+  <p>📫 Contact me via my bot's support email <a href="mailto:support@oxie.fr">support@oxie.fr<a/></p>
 
-   <p>⚡ Fait amusant <b>J'ai commencé avec les plugins minecraft !</b></p>
+  <p>⚡ Fun fact <b>I started with minecraft plugins!</b></p>
 </div><br>
 
 <h3 align="center">Mes languages et outils:</h3>
