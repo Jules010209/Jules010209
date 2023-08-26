@@ -27,7 +27,7 @@
   <p>⚡ Fun fact <b>I started with minecraft plugins!</b></p>
 </div><br>
 
-<h3 align="center">Mes languages et outils:</h3>
+<h3 align="center">My languages and tools:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<h3 align="center">Dons:</h3>
+<h3 align="center">Donations:</h3>
 <div align="center">
   <p>
     <a href="https://www.buymeacoffee.com/julesc">
