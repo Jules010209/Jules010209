@@ -14,15 +14,13 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jules010209&theme=react&hide_border=true&bg_color=0D1117"></p>
 
 <div align="center">
-  <p>⚡ I actually work on <a href="https://www.oxie.fr/">Oxie</a><p>
+  <p>⚡ I actually work on ...<i>secret</i>...<p>
   
   <p>🌱 I learn <b>TypeScript</b></p>
-  
-  <p>🤝 I help my friend on his discord bot <a href="https://discord.gg/tQmCtvBgfM">xyz</a></p>
 
   <p>👨‍💻 All my NPM projects are available <a href="https://www.npmjs.com/~jules010209">here</a></p>
 
-  <p>📫 Contact me via my bot's support email <a href="mailto:support@oxie.fr">support@oxie.fr<a/></p>
+  <p>📫 Feel free to contact me <a href="mailto:wd6@ivao.aero">wd6@ivao.aero<a/></p>
 
   <p>⚡ Fun fact <b>I started with minecraft plugins!</b></p>
 </div><br>
