@@ -14,7 +14,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jules010209&theme=react&hide_border=true&bg_color=0D1117"></p>
 
 <div align="center">
-  <p>⚡ I actually work on <i>Oxie</i><p>
+  <p>⚡ I currently work on <i>Oxie</i><p>
   
   <p>🌱 I learn <b>TypeScript</b></p>
 
