@@ -14,9 +14,9 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jules010209&theme=react&hide_border=true&bg_color=0D1117"></p>
 
 <div align="center">
-  <p>⚡ I currently work on <i>Oxie</i><p>
+  <p>⚡ I'm currently working on some projects<p>
   
-  <p>🌱 I learn <b>TypeScript</b></p>
+  <p>🌱 I'm learning <b>TypeScript</b> <i>#typescript4ever</i></p>
 
   <p>👨‍💻 All my NPM projects are available <a href="https://www.npmjs.com/~jules010209">here</a></p>
 
